@@ -30,6 +30,3 @@ Most of the code in this project has been written to the ES6 JavaScript specific
 
 
 
-# Restaurant-Reviews-App-Stage-1
-# Restaurant-Reviews-App-Stage-1
-# Restaurant-Reviews-App-Stage-1
